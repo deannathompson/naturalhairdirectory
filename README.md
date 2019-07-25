@@ -14,7 +14,9 @@ Project is created with:
 - Type 4: hair that is coily/kinky
 ## Installation
 ```
-python hairprogram.py
+python 
+<br>
+hairprogram.py
 ```
 ## Authors
 Deanna Thompson 
