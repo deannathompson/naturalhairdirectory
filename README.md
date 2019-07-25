@@ -15,10 +15,11 @@ Project is created with:
 ## Installation
 ```
 python 
-<br>
 hairprogram.py
 ```
 ## Authors
 Deanna Thompson 
 <br>
 Check out my [Micro Blog.](https://deanna.micro.blog)
+<br>
+Always looking for contributors or folks interested on expanding the program! 
