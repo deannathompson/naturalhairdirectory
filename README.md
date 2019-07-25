@@ -18,4 +18,4 @@ python hairprogram.py
 ```
 ## Authors
 Deanna Thompson 
-Check out my (https://deanna.micro.blog)[Micro Blog!]
+Check out my [Micro Blog.](https://deanna.micro.blog)
