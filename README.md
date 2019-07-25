@@ -1,5 +1,5 @@
 # What is the Natural Hair Directory?
-The natural hair directory is a short, Python-based program designed to recommend products and routines for those with natural hair. 
+The natural hair directory is a short, Python-based program designed to recommend products and routines for those with natural hair.  The program asks the user to input information about their curl type, and their hair's porosity.
 
 ## Technologies 
 Project is created with:
@@ -18,3 +18,4 @@ python hairprogram.py
 ```
 ## Authors
 Deanna Thompson 
+Check out my [https://deanna.micro.blog](Micro Blog!)
